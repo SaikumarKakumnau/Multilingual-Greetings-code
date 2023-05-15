@@ -1,0 +1,16 @@
+.button {
+  border: 1px solid #db1c48;
+  border-radius: 15px;
+  background-color: transparent;
+  color: #db1c48;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 100px;
+}
+
+.Active-Button {
+  background-color: #db1c48;
+  color: #ffffff;
+}
